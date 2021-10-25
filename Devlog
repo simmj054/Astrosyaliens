@@ -1,0 +1,19 @@
+DEVLOG
+
+ Astronauts vs Aliens is an asymmetric fighting game that utilizes bombs  to clear a path to eachother to be able to fight. The astronauts are a team of two players that have to work together to fight the alien, Player Three. This project consisted of three team members, Connor, Percy, and Kurt. The initial division of labor wasthe Connor was the main programmer, responsible for all scripts and bug fixes, Percy drew and procured all assets, and Kurt was in charge of creating all sound assets as well as UX. To reduce the scope of the game in order to have something conceivable by the intended deadline, a simple 2v1 fighting game was created. Players One and Two are both Astronauts, teamed up to help eachother fight the Alien. Player One drops bombs strategically, and Player Two sets off the bombs, but only in the order in which they were placed down. The alien is a melee fighter with a sword, and must clear a path to kill the astronauts and avoid getting hurt by the bomb.
+ 
+ Successes
+ 
+Our game has a clear beginning, middle, and end, and a cohesive theme and experience. One main thing that was done successfully was the asset creation, which was completed on time and successfully. Space-themed color palettes, a lively title screen, and a cohesive pixel font all coincided to create the intended atmosphere of a pixel space-themed game. All assets that were asked for were created and made in a timely and organized manner, using shared Google Drive folders. Another aspect that was successful was the immersive sound design that gave the feeling of a lively- pixel game. The sound matched the intended atmosphere. The core mechanics of the game were also created well, as far as player movement scripts and bomb-detonating scripts.
+
+Difficulties
+
+Due to the main programmer being incapacitated for the latter portion of the game-making, the other team members had to shoulder the extra workload. Due to this, it threw off a lot of intended mechanics, such as the victory end screen, the health bar scripts, etc.
+
+Lessons Learned
+
+In the future, we should have a more clear line of communication in terms of whether one member cannot handle the workload given to them. This would help the division of labor go more smoothly as well as lessen the burden on the other team members.
+
+Next Steps
+
+To help 'Astronauts v Aliens' in the future, 
