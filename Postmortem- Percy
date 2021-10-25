@@ -4,11 +4,11 @@ DEVLOG
  
  Successes
  
-Our game has a clear beginning, middle, and end, and a cohesive theme and experience. One main thing that was done successfully was the asset creation, which was completed on time and successfully. Space-themed color palettes, a lively title screen, and a cohesive pixel font all coincided to create the intended atmosphere of a pixel space-themed game. All assets that were asked for were created and made in a timely and organized manner, using shared Google Drive folders. Another aspect that was successful was the immersive sound design that gave the feeling of a lively- pixel game. The sound matched the intended atmosphere. The core mechanics of the game were also created well, as far as player movement scripts and bomb-detonating scripts.
+Our game has a clear beginning, middle, and end, and a cohesive theme and experience. One main thing that was done successfully was the asset creation, which was completed on time and successfully. Space-themed color palettes, a lively title screen, and a cohesive pixel font all coincided to create the intended atmosphere of a pixel space-themed game. All assets that were asked for were created and made in a timely and organized manner, using shared Google Drive folders. Another aspect that was successful was the immersive sound design that gave the feeling of a lively- pixel game. The sound matched the intended feel and aesthetic of the game. The core mechanics of the game were also created well, as far as player movement scripts and bomb-detonating scripts that enabled the game to be played on a base-level.
 
 Difficulties
 
-Due to the main programmer being incapacitated for the latter portion of the game-making, the other team members had to shoulder the extra workload. Due to this, it threw off a lot of intended mechanics, such as the victory end screen, the health bar scripts, etc.
+Due to the main programmer being incapacitated for the latter portion of the game-making, the other team members had to shoulder the extra workload. Due to this, it threw off a lot of intended mechanics, such as the victory end screen, the health bar scripts, etc. that had to be put on the backburner for the sake of saving time and providing something deliverable.
 
 Lessons Learned
 
@@ -16,4 +16,4 @@ In the future, we should have a more clear line of communication in terms of whe
 
 Next Steps
 
-To help 'Astronauts v Aliens' in the future, 
+To help 'Astronauts v Aliens' in the future, we will need to add a few more mechanics to the project to prompt it to function in the exact way we had intended. The project needs scripts that move the health bar based on level of health lost, scripts that trigger the victory end screen based on which player/ team won, as well as other scripts that were not finished. It would also be a great asset to incorporate the idle and walking animations that were created, and debug the scripts to inhibited us from doing so. All in all, the main focus on developing this project further would need to be adding and revising scripts that were not attended to.
