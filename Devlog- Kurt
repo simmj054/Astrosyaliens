@@ -10,3 +10,8 @@ ROLES-
 Kurt Sha- Kurt was the main sound designer and helped program the game towards the latter half. In addition to this, he also helped with the devlog and postmortem
 Percy Simms- Percy was the asset creator, UI designer, and created the itch page, presentation, and mainly wrote the devlog and postmortem.
 Connor coded the core components of this project, including the player movement, bomb triggers, bomb detonators, etc.
+
+/ Playtesting
+
+
+Playtests were conducted during classtime on 10/18 as well as 10/11. The whitebox version of the game was playtested on 10/11 with a very basic mechanic that had two players with a health bar that went down everytime they collided. This playtest yielded the least amount of feedback, as the whitebox was simply a way to 
